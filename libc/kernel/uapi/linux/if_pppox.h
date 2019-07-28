@@ -19,6 +19,7 @@
 #ifndef _UAPI__LINUX_IF_PPPOX_H
 #define _UAPI__LINUX_IF_PPPOX_H
 #include <linux/types.h>
+#include <linux/if.h>
 #include <asm/byteorder.h>
 /* WARNING: DO NOT EDIT, AUTO-GENERATED CODE - SEE TOP FOR INSTRUCTIONS */
 #include <linux/socket.h>
